@@ -45,7 +45,7 @@ const Dashboard = () => {
         <div>
             <h1>Visual Presentation</h1>
             <div>
-                <h2>Bar Chart</h2>
+                <h2>Bar Chart: Invest vs Revenue</h2>
                 <BarChart width={730} height={250} data={data}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />
@@ -56,7 +56,7 @@ const Dashboard = () => {
                 </BarChart>
             </div>
             <div>
-                <h2>Line Chart</h2>
+                <h2>Line Chart: Invest vs Revenue</h2>
                 <LineChart width={730} height={250} data={data}
                     margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
                     <CartesianGrid strokeDasharray="3 3" />
