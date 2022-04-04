@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Mr. Abul",
+        "pname": "",
+        "review": "Ideal for small wrists, the Garmin Lily smartwatch has a fashionable, jewelry-inspired design and many useful health-tracking features for a reasonable price.",
+        "rating": 4.5
+    },
+    {
+        "name": "Mr. Kabul",
+        "pname": "Samsung Galaxy Watch4",
+        "review": "The Samsung Galaxy Watch4 is the best Android-compatible smartwatch for the price, offering the same specs and features as the Classic model for $100 less.",
+        "rating": 3.5
+    },
+    {
+        "name": "Mr. Jabul",
+        "pname": "Apple Watch SE",
+        "review": "The Apple Watch SE drops the always-on display and a couple of advanced health sensors from the Series 6, but otherwise delivers the same winning app, fitness, and safety features for $120 less.",
+        "rating": 4.0
+    },
+    {
+        "name": "Mr. Rabul",
+        "pname": "Garmin Vivoactive 4",
+        "review": "Garmin's excellent Vivoactive 4 fitness tracker offers insights about your breathing, sleep, and stress, motivating training plans, and smartwatch features like contactless payments, downloadable apps, and onboard music storage.",
+        "rating": 4.5
+    },
+    {
+        "name": "Mr. Rahim",
+        "pname": "Apple Watch Series 7",
+        "review": "With more screen real estate, improved durability, and faster charging, the Apple Watch Series 7 retains its crown as the best smartwatch on the market.",
+        "rating": 5.0
+    },
+    {
+        "name": "Mr. Karim",
+        "pname": "Fitbit Versa 3",
+        "review": "In addition to ample health and fitness features, the Fitbit Versa 3 smartwatch improves on its predecessor with a larger screen, integrated GPS for pace and distance tracking, a blood oxygen sensor, and fast charging.",
+        "rating": 3.5
+    }
+]

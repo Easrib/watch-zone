@@ -1,10 +1,14 @@
 import React from 'react';
+import useReviews from '../../hooks/useReviews';
+
+
 
 const Reviews = () => {
+    const [reviews, setReviews] = useReviews()
     return (
-        <div>
-            <h1>Review page</h1>
-        </div>
+        < div >
+            <h1>All Reviews</h1>
+        </div >
     );
 };
 
