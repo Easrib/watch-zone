@@ -1,6 +1,12 @@
 # Watch Zone
 
-This project's live website is  [Watch Zone](https://github.com/facebook/create-react-app).
+This project's live website is  [Watch Zone](https://shimmering-cendol-bdfded.netlify.app/).
+
+## Basic work at this website
+* Custom Hooks used for review sections
+* Chart is used at Dashboard section for visual presentation
+* At blog section some basic questions are answered
+* Website fully responsive using Bootstrap.
 
 ## Available Scripts
 
