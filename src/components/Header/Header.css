@@ -1,0 +1,11 @@
+.nav-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nav-links .header-link {
+    margin-left: 20px;
+    font-size: 18px;
+}
